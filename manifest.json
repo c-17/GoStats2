@@ -3,12 +3,12 @@
   "name": "GoStats",
   "icons": [
     {
-      "src": "https://c-17.github.io/gostats2/gostats.png",
+      "src": "https://gostats2.app/gostats.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://c-17.github.io/gostats2/gostats.png",
+      "src": "https://gostats2.app/gostats.png",
       "sizes": "512x512",
       "type": "image/png"
     }
